@@ -24,7 +24,7 @@ regex_no = r'/ebooks/(\d+)'
 regex_chinese = r'^[\u4E00-\u9FFF]'
 
 for book in chinese_books:
-    # 檢查是否為純中文書
+    # 檢查書名是否為中文
     match_chinese = re.match(regex_chinese, book.get_text())
 
     if not match_chinese:
