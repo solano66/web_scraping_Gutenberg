@@ -28,6 +28,8 @@ Follow PEP8 unless explicitly specified otherwise
 The script will start scraping Chinese books from Project Gutenberg and save the results as a `.txt` file in the `project_gutenberg` folder.
 
 ## Demo
+Click this image to watch the demo video
+
 [![Project Gutenberg - 網頁爬蟲練習](https://img.youtube.com/vi/_mD591UNjw8/0.jpg)](https://www.youtube.com/watch?v=_mD591UNjw8)
 
 
